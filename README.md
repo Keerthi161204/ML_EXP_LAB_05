@@ -86,6 +86,3 @@ bash
 pip install numpy scikit-learn
 python your_script_name.py
 
-
-
-If you want, I can upgrade this into a **perfect viva-ready explanation + possible questions they’ll ask you**.
